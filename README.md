@@ -14,7 +14,7 @@ How to Play
 
 Try entering a number outside 1-3 and watch how the program lets you know it’s an invalid choice. 
 
-###Importance
+### Importance
 . Uses switch statement for neat control flow — perfect for learning basic C++ decision making.
 
 . Keeps the user interaction simple and straightforward.
